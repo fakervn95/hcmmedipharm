@@ -18,7 +18,7 @@
 	<div class="container">
 		<div class="host_patronize">
 			<div class="row">
-				<div class="col-sm-3" style="display:none;">
+				<div class="col-sm-3">
 					<div class="host_ft">
 						<?php if(get_locale() == 'vi'){?>
 							<h4>CHỦ TRÌ VÀ CHỈ ĐẠO</h4>
